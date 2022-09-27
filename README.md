@@ -17,7 +17,7 @@ Backend
 
 ## Run
 - Project > Run As> Maven Build  ``spring-boot:run``
-- Servisleri belli bir sıraya göre ayağa kaldırılması önemlidir. Sıralama şu şekildedir.
+- Servislerin belli bir sıraya göre ayağa kaldırılması önemlidir. Sıralama şu şekildedir.
 - Service-registry
 - Cloud-config-server
 - Api-gateway
