@@ -1,4 +1,4 @@
-# Patika-Dev-FT-Practicum-Final-Case
+# Döviz Alım Satım 
 Backend
 
 ## Araçlar
@@ -7,7 +7,7 @@ Backend
 - Eclipse
 - PostgreSQL
 
-## Mimari
+## Mikroservisler
 - Service-Registry - Ayağa kaldırılan her instance buraya kaydolur. 
     Belli aralıklarla instance ın ayakta olup olmadığını kontrol eder.
 - Cloud-config-server - Harici yapılandırma ayarlarını yönetir.
